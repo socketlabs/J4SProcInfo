@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/DevOps/">
+    <File Path="LICENSE.md" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/J4SProcInfo/J4SProcInfo.csproj" />
+</Solution>
